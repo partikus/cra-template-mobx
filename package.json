@@ -1,0 +1,24 @@
+{
+  "name": "cra-template-mobx",
+  "version": "0.0.1",
+  "main": "template.json",
+  "repository": "git@github.com:partikus/cra-template-mobx.git",
+  "author": "Michal Kruczek <partikus@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cra-template": "^1.0.2"
+  },
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "mobx"
+  ],
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "devDependencies": {
+    "react": "^16.12.0"
+  }
+}
